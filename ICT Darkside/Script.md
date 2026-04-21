@@ -50,10 +50,21 @@
 > 💡 **Kano change korlam:** Prothom 15 second e direct viewer ke question kore "feel" ta gore tule diye retention hook toiri korechi. "koyta raat ghum hoyeni" — eta personal pain point e hit kore.
 
 ### Final Version:
+> ICT Trading Concept jodi etoi best hoy, somosto strategy r bap, Market analysis er king. soto soto complex theory:
+> Liquidity, Fair value gap, institutional structure, Dealer range, Time & Price theory, Daily Bias, bivinno Blocks — theory er list ses i hoy na.
+> eto theory sikhte sikhte apnar koyta raat ghum hoyeni.. ta hoyto apni nijeo janen na..
+> But Ekta kotha sotti kore bolen to — ICT trade kore adou ki apnar profit hoyeche..?
+
+
+
 > Sobai bole ICT naki **"Institutional Logic"**, **"Somosto Strategy r baap"**, market analysis er **king**.
 
 > Tahole ekta prosner uttor den amake —
-> Eto gulo complex theory sikheo… apnar adou ki profit hoyeche..? `dgrjhiuabfkl`
+> Eto gulo complex theory sikheo… apnar adou ki profit hoyeche..?
+> Liquidity, Fair value gap, institutional structure, Dealer range, Time & Price theory, Daily Bias, bivinno Blocks — theory er list ses i hoy na.
+> eto theory sikhte sikhte apnar koyta raat ghum hoyeni.. ta hoyto apni nijeo janen na..
+> but, prosno ta abar same jaygay i.. erokom superior ekta concept er eto eto complex theory gulo sikheo apnar profit hocche na keno..
+
 
 ---
 
@@ -79,6 +90,16 @@
 
 > 💡 **Kano change korlam:** Sarcasm ta pointed hoyeche. "Goldman Sachs er CEO" line ta vivid imagery diye — audience hasbe ebong connect korbe.
 
+### Final VErsion:
+> Sunte asolei comotkar lage
+> "Central bank market manipulate kore…"
+> "Interbank algorithm market move koray…"
+> "Pattern trader der stoploss hit hoye liquidity generate hoy…"
+> Oneke abar evabeo bole — **"Your stoploss is my takeprofit"**.
+
+> Baah! Ki confidence.
+> 
+
 ---
 
 ## ✍️ Section 3 — Bangladesh Reality Check
@@ -100,6 +121,10 @@
 > Tahole ICT ki sottiyi kaaj kore? Chalun shesh porjonto uttor ta khuje bair kori.
 
 > 💡 **Kano change korlam:** "Challenge" ei word ta add korechi — audience ke active vabe jiggesh korechi. "Zero" word ta dramatic pause toiri kore.
+
+### Final Version:
+> jodio confidence er sathe bastobotar kono mil nei.. 
+> karon bisoygula jodi etoi sohoj thakto tahole bangladesh er prottekta jelay 1, 2 ta billioniere thakar kotha.. 
 
 ---
 
