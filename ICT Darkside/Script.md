@@ -49,6 +49,12 @@
 
 > 💡 **Kano change korlam:** Prothom 15 second e direct viewer ke question kore "feel" ta gore tule diye retention hook toiri korechi. "koyta raat ghum hoyeni" — eta personal pain point e hit kore.
 
+### Final Version:
+> Sobai bole ICT naki **"Institutional Logic"**, **"Somosto Strategy r baap"**, market analysis er **king**.
+
+> Tahole ekta prosner uttor den amake —
+> Eto gulo complex theory sikheo… apnar adou ki profit hoyeche..? `dgrjhiuabfkl`
+
 ---
 
 ## ✍️ Section 2 — Central Bank Sarcasm
