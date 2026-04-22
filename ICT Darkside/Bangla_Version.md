@@ -36,7 +36,7 @@
 
 ---
 
-> এখন আপনি যদি একজন বিবেকবান মানুষ হন, তাহলে এতোক্ষণে আপনার মাথায় অবশ্যই আসার কথা যে, এতোদিন যারা Price Action-এর মতো theory গুলোকে দাঁড়ি দিয়ে বলে, Trendline এবং Chart Pattern-এর মতো theory গুলোকে fake বলে নতুন great system নিয়ে এসেছে — ICT Concept, Institutional Logic — তারা নিজেরাই কি আসলে fake? scam?
+> এখন আপনি যদি একজন বিবেকবান মানুষ হন, তাহলে এতোক্ষণে আপনার মাথায় অবশ্যই আসার কথা যে, এতোদিন যারা Price Action-এর মতো theory গুলোকে ডারক্সাইড বলে, Trendline এবং Chart Pattern-এর মতো theory গুলোকে fake বলে নতুন great system নিয়ে এসেছে — ICT Concept, Institutional Logic — তারা নিজেরাই কি আসলে fake? scam?
 >
 > ঠিক এই জায়গা থেকেই আসে ICT Trading Concept-এর আসল Darkside। যা আমি guarantee দিয়ে বলতে পারি, আজ পর্যন্ত কেউই এই বিষয়ে আপনাদেরকে বলেনি।
 >
@@ -90,6 +90,7 @@ ICT Concept-এরও same অবস্থা। ছোট ছোট powerful to
 > তো যাই হোক। এবার আপনাদেরকে ICT trade করে profit না করতে পারার এমন একটি reason বলবো, যেটা শুনলে আপনি হয়তো chair থেকে পড়ে যাবেন।
 > jokes a part — chair থেকে পড়বেন না। কিন্তু বিষয়টা আপনার বিশ্বাস হবে না।
 >
+>কি সেটা বলছি- 
 > আপনারা এরকম তো অবশ্যই শুনেছেন যে — Chart patterns are fake, ICT is Institutional Logic।
 > কিন্তু একটু honestly চিন্তা করে দেখুন তো —
 > **আজ আপনি যেভাবে ICT-তে trade করছেন — সেটাও কি একটা pattern না?**
@@ -106,7 +107,7 @@ ICT Concept-এরও same অবস্থা। ছোট ছোট powerful to
 > এখন সাধারণভাবেই আপনার মনে হতে পারে, যে ICT-ও মূলত এক ধরনের pattern trading-এর under-এই পড়ে।
 >
 > কিন্তু **একদম না।** ICT নিজের জায়গায় একটা strong framework।
-> কিন্তু যারা আপনাকে ICT শেখাচ্ছে — **তারা ICT-কে একটা "fixed recipe" বানিয়ে আপনাদেরকে গেলাচ্ছে।** Pattern-এর জায়গায় আরেকটা pattern। শুধু নাম আলাদা। একটা শুনতে normal মনে হয়, আরেকটা শুনলে একটু legendary feel হয়।
+> কিন্তু যারা আপনাকে ICT শেখাচ্ছে — **তারা ICT-কে একটা "fixed recipe" বানিয়ে  আপনাদেরকে  গেলাচ্ছে।** Pattern-এর জায়গায় আরেকটা pattern। শুধু নাম আলাদা। একটা শুনতে normal মনে হয়, আরেকটা শুনলে একটু legendary feel হয়।
 
 > আমি কিছুক্ষণ আগে আপনাদেরকে যে ২টা backtest result দেখিয়েছিলাম — আমি সেখানে ইচ্ছা করে শুধু rules list follow করে trade নিয়েছিলাম। কারণ আমি আপনাদেরকে দেখাতে চেয়েছিলাম — **"pattern" হিসেবে ICT follow করলে কী হয়।**
 >
@@ -154,7 +155,7 @@ ICT Concept-এরও same অবস্থা। ছোট ছোট powerful to
 >
 > 📺 **"Make Your Personal Trading Plan"**
 >
-> একটা professional trading plan-এ যা যা লাগে, সবই কিছু এই series-এ এক এক করে বিস্তারিতভাবে উল্লেখ থাকবে। এছাড়াও আপনি নিজের trading plan বানাবেন কীভাবে — সেটারও একদম practical step by step guide থাকবে এই series-এ। Real Backtest, Forward test এবং live example সহ অনেক কিছুই এই series-এ করে দেখানো হবে।
+> একটা professional trading plan-এ যা যা লাগে, সব কিছু এই series-এ এক এক করে বিস্তারিতভাবে উল্লেখ থাকবে। এছাড়াও আপনি নিজের trading plan বানাবেন কীভাবে — সেটারও একদম practical step by step guide থাকবে এই series-এ। Real Backtest, Forward test এবং live example সহ অনেক কিছুই এই series-এ করে দেখানো হবে।
 >
 > আর **আজকের video-টি** মূলত — এই series-এরই **প্রথম episode**।
 >

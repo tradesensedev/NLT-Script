@@ -37,15 +37,14 @@ etodin ami nije ja bolechi ta sobi ki mittha ebong protarona..?
 
 
 
-> ekhon apni jodi ekjon bibekban manus hon, tahole etokkhone apnar mathay obossoi asar kotha je etodin jara Price action er moto theory guloke darkide bole, trendline ebong chart pattern er moto theory guloke fake bole notun great system niye eseche.. ICT COncept, Institutional Logic, tara nijerai ki asole fake..? scam..?
+> ekhon apni jodi ekjon bibekban manus hon, tahole etokkhone apnar mathay obossoi asar kotha je etodin jara Price action er moto theory guloke darkside bole, trendline ebong chart pattern er moto theory guloke fake bole notun great system niye eseche.. ICT Concept, Institutional Logic, tara nijerai ki asole fake..? scam..?
 
 > thik ei jayga thekei ase ICT Trading Concept er asol Darkside.. Ja ami guarentee diye bolte pari. aj porjonto keu i ei bisoy apnaderke boleni…
 > but vai dhorjjer ekta sima ache.. Tai ami nije — **ekjon ICT tutor howa sotteo** — ajke prothom bar apnader samne reveal korchi:
-> The Dark Side Behind ICT Concept
+> **The Dark Side Behind ICT Concept**
 > Apni joto somoy niyei ICT sikhen na keno.. 3 ta karone apnar kokhonoi profit hobe na
 
-
-Reason Number 1 — ICT is a Kingless Chess Board
+## Reason Number 1 — ICT is a Kingless Chess Board
 ghabranor kichu nei.. bisoyta bujhiye bolchi..
 apnara daba khelar kotha obossoi sunechen ba kothao na kothao obossoi dekhechen..
 
@@ -84,6 +83,8 @@ Ekta live example di —
 > kintu ei khetreo ami bangladeshi kauke dekhlam na.. emon depth e fundamental analysis sikhacche
 again keno sikhacche na seta ami jani na — maybe... tara nijei bhalo kore jane na.
 
+## Reason Number 2 - ICT is Just Another Pattern
+
 > To jaihok.. Ebar apnader ke ICT trade kore profit na korte parar emon ekti reasion bolbo jeta sunle apni hoyto chair theke pore jaben..
 > jokes a part.. chair theke porben na.. but bisoyta apnar bissas hobe na.
 > ki seta bolchi..
@@ -113,7 +114,7 @@ again keno sikhacche na seta ami jani na — maybe... tara nijei bhalo kore jane
 > Actually, ekhaneo dos ICT er na.. ICT nije bar bar bole diyeche je ei setup gulo just inspiration.. Apnake profit korte hole prothomei market er context bujhte hobe..
 > tarpor apnake ei setup gulo.. jegulo ICT nije demo hisebe diyeche egulor theke inspiration ba idea niye nijosso trading plan toiri korte hobe…
 
-
+## Reason Number 3- Strategy ≠ Trading Plan
 
 > Ar ekhanei ase tritio reson jar jonno apnar ICT trading e kokhonoi profit hobe na..
 > ki seta bolchi.. tar age nijeke ekta honest prosno korun —
@@ -149,7 +150,7 @@ orthat jodi apni ekjon profitable trader hote can tahole apnake obossoi nijer pe
 >
 > 📺 **"Make Your Personal Trading Plan"**
 
-> ekta professional trading plan e ja ja lage.. sobi kichu ei series e ek ek kore bistarito vabe ullekh thakbe..
+> ekta professional trading plan e ja ja lage.. sob kichu ei series e ek ek kore bistarito vabe ullekh thakbe..
 > echarao apni nijer trading plan banaben kivabe..? setar o ekdom practical step by step guide thakbe ei series e..
 > REal Backtest, Forward test ebong live example soho onek kichui ei series e kore dekhano hobe..
 
