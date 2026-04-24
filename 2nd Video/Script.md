@@ -1,7 +1,7 @@
 # How to Build your Trading Plan
 
 > Trading theke profitable howa ki asolei somvob..? ei prosno jokhon keu amake kore ami boli je hya obossoi somvob..!
-> kintu kichudin age unexpected vabe ekjon bekti amake ki boleche sunun
+> kintu kichudin age unexpected vabe ekjon bekti amake ki boleche sunun:
 
 > vai ami onek sopno niye trading suru korechilam... surur dike ami vabchilam je ami age youtube dekhe valo moto sikhe tarpor trading korbo.. ei karone ami prothom koyek mas kono deposit kori nai.. 
 > kintu jokhoni ami prothom deposit korechi amar taka ami ekdinei koyekbar double kore felechi abar zero er kacha kachi cole esechi.. evabe korte korte amar prothom deposit 50 dollar 1 dinei ses
@@ -11,3 +11,8 @@
 > vai kosom khodar emon janle ami etodin trading sekhar poriborte onno kichu sikhtam, freelancing, ba dropshipping ba jekono kichhu.. karon vai ami je poriman effort trading e dichi.. diyao sob haraichi.. amar bissas je ami ei poriman effort onno kono field e dile 100% ami ajke success hoitam..
 > success na hoileo ontoto pokkhe ei motherc**d trading e ja loss korchi ei loss gula hoito na..
 > Sorry vai kichu mone koiren na.. ami just amar abeg ta prokas korlam..
+
+
+> ekhon porjonto apnara jara video ti dekhtechen.. ami 90% sure je apnar obosthao ei hamidul vai er motoi
+> ar ekta sotti kotha bolte 90% trader der i same obostha. ar seta amra sobai i jani.. ami nijeo jiboner ei ongsho par korechi..
+> 
