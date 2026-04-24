@@ -8,4 +8,6 @@
 > tarpor theke vai aj porjonto ami youtube theke onek strategy sikhe try kore dekhechi.. onek backtest kore dekhechi.. kintu kono lav hoyni.. din din loss er amount berei jacche.. ami Price action, SMC, ICT, Wyckoff, Eliot Wave.. kono strategy bad rakhi nai..
 > ajke pray 2 bochor jabot ami lagatar bivinno strategy diye try kortechi.. kintu kono lav hocche na
 > apni pls vaiya amake ekta kotha bolun, je eta ki amar ekar obostha naki sobar sathe erokom i hoy.. jodi sobar sathe erokom i hoy tahole apnara eita bolen keno je trading theke profitable howa somvob..?
-
+> vai kosom khodar emon janle ami etodin trading sekhar poriborte onno kichu sikhtam, freelancing, ba dropshipping ba jekono kichhu.. karon vai ami je poriman effort trading e dichi.. diyao sob haraichi.. amar bissas je ami ei poriman effort onno kono field e dile 100% ami ajke success hoitam..
+> success na hoileo ontoto pokkhe ei motherc**d trading e ja loss korchi ei loss gula hoito na..
+> Sorry vai kichu mone koiren na.. ami just amar abeg ta prokas korlam..
